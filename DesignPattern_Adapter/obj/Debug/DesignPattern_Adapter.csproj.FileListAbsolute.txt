@@ -1,0 +1,8 @@
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\bin\Debug\DesignPattern_Adapter.exe.config
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\bin\Debug\DesignPattern_Adapter.exe
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\bin\Debug\DesignPattern_Adapter.pdb
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\obj\Debug\DesignPattern_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\obj\Debug\DesignPattern_Adapter.Properties.Resources.resources
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\obj\Debug\DesignPattern_Adapter.csproj.GenerateResource.Cache
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\obj\Debug\DesignPattern_Adapter.exe
+C:\Users\nicole.freitas\Desktop\DesignPattern_Adapter\DesignPattern_Adapter\obj\Debug\DesignPattern_Adapter.pdb
